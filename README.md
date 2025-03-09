@@ -12,6 +12,9 @@ An exploratory data analysis of Cyclistic bike-share data using R to uncover ins
 ## Tools Used
 - **R** (dplyr, ggplot2, tidyr)
 - **GitHub** (for version control)
+- **AI-assisted tools were used to structure documentation and refine insights.**
+
+
 
 ## Next Steps
 - Predictive modeling on ride behavior.
